@@ -1,6 +1,6 @@
 {
     "model-name": "DeepSeek R1 Distill Llama 70B",
-    "model": "DeepSeek-R1-Distill-Llama-70B",
+    "model": "deepseek-r1-distill-llama-70B",
     "temperature": 0.5,
     "top_p": 0.5,
     "messages": [
