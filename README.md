@@ -39,7 +39,7 @@ chat-ai-personas/
 ├── README.md
 └── LICENSE
 ```
-
+ 
 - `examples/`: Contains examples of persona JSON files.
 - `research/`: Contains personas that are useful in research.
 - `translation/`: Contains personas that are optimized for text translation.
