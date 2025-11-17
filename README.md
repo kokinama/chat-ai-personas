@@ -1,4 +1,4 @@
- # Chat AI Personas Repository
+# Chat AI Personas Repository
 
 This repository contains JSON files that define various personas for use in [Chat AI](https://chat-ai.academiccloud.de). Each JSON file includes the system prompt, settings, and conversations, allowing you to easily load a persona into Chat AI with a simple link.
 
@@ -19,7 +19,7 @@ This repository is designed to provide a collection of pre-defined personas that
 To use a persona in Chat AI, simply add the link to the JSON file in the import parameter of the URL. Here's an example:
 
 ```
-https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/examples/assistant.json
+https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/kokinama/chat-ai-personas/refs/heads/main/assistant/oss.json
 ```
 
 ## File Structure
