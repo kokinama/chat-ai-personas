@@ -1,0 +1,12 @@
+{
+    "model-name": "GPT OSS 120B",
+    "model": "openai-gpt-oss-120b",
+    "temperature": 0.5,
+    "top_p": 0.5,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant"
+      }
+    ]
+  }
