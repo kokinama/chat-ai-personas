@@ -18,12 +18,12 @@ This repository is designed to provide a collection of pre-defined personas that
 
 To use a persona in Chat AI, simply add the link to the JSON file in the import parameter of the URL. Here's an example:
 
-```
 OSS
+```
 https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/kokinama/chat-ai-personas/refs/heads/main/assistant/oss.json
-
+```
 Qwen235
-https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/kokinama/chat-ai-personas/refs/heads/main/assistant/oss.json
+```
 https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/kokinama/chat-ai-personas/refs/heads/main/assistant/qwen235.json
 ```
 
