@@ -1,0 +1,12 @@
+{
+    "model-name": "Qwen 3 235B A22B Thinking 2507",
+    "model": "qwen3-235b-a22b",
+    "temperature": 0.6,
+    "top_p": 0.95,
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant"
+      }
+    ]
+  }
